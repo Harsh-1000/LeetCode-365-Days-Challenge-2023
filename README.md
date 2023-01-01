@@ -1,1 +1,1 @@
-# LeetCode-365-Days-Challange
+# LeetCode-365-Days-Challenge
